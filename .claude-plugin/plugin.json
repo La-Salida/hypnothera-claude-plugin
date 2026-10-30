@@ -1,0 +1,30 @@
+{
+	"name": "hypnothera",
+	"displayName": "Hypnothera Personal Session",
+	"version": "1.3.0",
+	"description": "Write a personalized guided hypnosis script or multi-day journey, as text in your conversation, from what your AI assistant already knows about your goals. You approve a short brief first, and nothing is sent anywhere.",
+	"author": {
+		"name": "Hypnothera",
+		"url": "https://hypnothera.ai",
+		"email": "hello@hypnothera.ai"
+	},
+	"homepage": "https://hypnothera.ai",
+	"repository": "https://github.com/La-Salida/hypnothera-claude-plugin",
+	"license": "MIT",
+	"keywords": [
+		"hypnosis",
+		"personalized hypnosis",
+		"hypnosis script",
+		"wellness",
+		"relaxation",
+		"sleep",
+		"focus",
+		"confidence",
+		"mental-rehearsal"
+	],
+	"icon": "./assets/icon.png",
+	"documentationUrl": "https://github.com/La-Salida/hypnothera-claude-plugin#readme",
+	"supportUrl": "https://hypnothera.ai/support",
+	"privacyPolicyUrl": "https://hypnothera.ai/privacy",
+	"termsOfServiceUrl": "https://hypnothera.ai/terms"
+}
