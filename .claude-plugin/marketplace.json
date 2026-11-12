@@ -3,13 +3,12 @@
 	"description": "Personalized hypnosis scripts and multi-day journeys, written in your conversation from what your AI assistant already knows about your goals.",
 	"owner": {
 		"name": "Hypnothera",
-		"url": "https://hypnothera.ai"
+		"email": "hello@hypnothera.ai"
 	},
 	"plugins": [
 		{
 			"name": "hypnothera",
-			"source": ".",
-			"displayName": "Hypnothera Personal Session",
+			"source": "./",
 			"description": "Write a personalized guided hypnosis script or multi-day journey, as text in your conversation, from what your AI assistant already knows about your goals. You approve a short brief first, and nothing is sent anywhere.",
 			"version": "1.3.0",
 			"author": {
