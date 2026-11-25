@@ -101,7 +101,7 @@ Hypnothera is a wellness and self-improvement tool for relaxation, focus, sleep 
 
 ## Want it narrated?
 
-<img src="assets/icon.png" alt="" width="64" align="right">
+<img src="assets/readme/app-icon.png" alt="" width="72" align="right">
 
 The plugin writes text. [**Hypnothera**](https://hypnothera.ai), the app from the same team, turns sessions into narrated audio with background soundscapes: over **7,000 sessions** created, in **14 languages**, with **100+ voices**. It's a separate product, and nothing from your conversation carries over to it.
 
